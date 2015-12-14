@@ -19,7 +19,7 @@ part 'EvilAliens.dart';
 
 void main() {
   CanvasElement canvas = query('#surface');
-  var ctx = canvas.context2d;
+  var ctx = canvas.context2D;
 
   var assetManager = new AssetManager();
   assetManager.queueDownload('img/alien-explosion.png');
