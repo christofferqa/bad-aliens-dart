@@ -3,6 +3,4 @@ description:  Very simple HTML5 game.
 
 dependencies:
   browser: any
-dev_dependencies:
-  runtime:
-    path: ../../../web_runtime
+  
